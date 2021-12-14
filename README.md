@@ -1,2 +1,2 @@
-- 👋 Hola, soy Nel
+Hola, soy Nel
 
