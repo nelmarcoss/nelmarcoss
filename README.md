@@ -1,11 +1,21 @@
 <h1 align="center">Hola soy Nel 👋</h1>
 <h3 align="center">Un aprendiz y apasionado de la informática</h3>
 
-- 🧑🏻‍🏫 Formación:
-  - Estoy realizando un grado superior llamado Administración de sistemas en red. 
-    - 📚 ¿Qué asignaturas hay en este grado superior?  Implantación de Sistemas Operativos, hardware, lenguaje de marcas, administración de Redes, base de datos
-  - Además, estoy haciendo un curso de Desarrollo Web.
-    - 📚 ¿Que temas se tocan en este curso? HTML, CSS, JS, PHP...
+- 🧑🏻‍🏫 Formación (en curso):
+  - Grado superior "Administración de sistemas en red".
+    - Asignaturas:
+      - Lenguaje de marcas
+      - Hardware
+      - Sistemas operativos
+      - Administración en red
+      - Base de datos
+  - Curso "Desarrollo Web".
+    - Temas:
+      - HTML
+      - CSS
+      - JavaScript
+      - PHP
+      - Y mucho más...
 - 👨‍💻 Todos mis proyectos los iré subiendo a mi perfil de github
 - 📫 ¿Como encontrarme? **nelmarcos@icloud.com**
 
