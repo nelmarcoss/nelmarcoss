@@ -3,8 +3,9 @@
 
 - 🧑🏻‍🏫 Formación:
   - Estoy realizando un grado superior llamado Administración de sistemas en red. 
-    - ¿Qué asignaturas hay en este grado superior?  Implantación de Sistemas Operativos, Hardware, Lenguaje de Marcas, Administración de Redes, Base de datos
+    - 📚 ¿Qué asignaturas hay en este grado superior?  Implantación de Sistemas Operativos, hardware, lenguaje de marcas, administración de Redes, base de datos
   - Además, estoy haciendo un curso de Desarrollo Web.
+    - 📚 ¿Que temas se tocan en este curso? HTML, CSS, JS, PHP...
 - 👨‍💻 Todos mis proyectos los iré subiendo a mi perfil de github
 - 📫 ¿Como encontrarme? **nelmarcos@icloud.com**
 
