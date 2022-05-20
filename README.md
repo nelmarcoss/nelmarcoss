@@ -3,19 +3,7 @@
 
 - 🧑🏻‍🏫 Formación (en curso):
   - Grado superior "Administración de sistemas en red".
-    - Asignaturas:
-      - Lenguaje de marcas
-      - Hardware
-      - Sistemas operativos
-      - Administración en red
-      - Base de datos
   - Curso "Desarrollo Web".
-    - Temas:
-      - HTML
-      - CSS
-      - JavaScript
-      - PHP
-      - Y mucho más...
 - 👨‍💻 Todos mis proyectos los iré subiendo a mi perfil de github
 - 📫 ¿Como encontrarme? **nelmarcos@icloud.com**
 
