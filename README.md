@@ -2,8 +2,9 @@
 <h3 align="center">Un aprendiz y apasionado de la informática</h3>
 
 - 🧑🏻‍🏫 Formación:
-  - Estoy haciendo un grado superior llamado Administración de sistemas en red. 
-- 📚 Estoy aprendiendo html, css, todo lo relacionado con bases de datos y redes. Además, tambien estoy aprendiendo a implantar sistemas operativos y todo lo relacionado con el Hardware.
+  - Estoy realizando un grado superior llamado Administración de sistemas en red. 
+  - Además, estoy haciendo un curso de Desarrollo Web.
+-📚 Estoy aprendiendo html, css, todo lo relacionado con bases de datos y redes. Además, tambien estoy aprendiendo a implantar sistemas operativos y todo lo relacionado con el Hardware.
 - 👨‍💻 Todos mis proyectos los iré subiendo a mi perfil de github
 - 📫 ¿Como encontrarme? **nelmarcos@icloud.com**
 
