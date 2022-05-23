@@ -4,7 +4,7 @@
 - 🧑🏻‍🏫 Formación (en curso):
   - Grado superior "Administración de sistemas en red".
   - Curso "HTML CSS".
-- 👨‍💻 Todos mis proyectos los iré subiendo a mi perfil de github
+- 👨‍💻 Todos mis proyectos los iré subiendo a mi perfil de GitHub
 - 📫 ¿Como encontrarme? **nelmarcos@icloud.com**
 
 <h3 align="left">Mis redes sociales:</h3>
