@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Nel 👋</h1>
+<h1 align="center">Hola soy Nel <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28px"></h1>
 <h3 align="center">Un aprendiz y apasionado de la informática</h3>
 
 - 🧑🏻‍🏫 Formación (en curso):
@@ -9,7 +9,10 @@
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
-<a href="https://instagram.com/nelmarcoss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nelmarcoss" height="30" width="40" /></a>
+  
+  <code>
+    <a href="https://www.linkedin.com/in/nelmarcos/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/nelmarcoss/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </p>
 
 <h3 align="left">Lenguajes que domino:</h3>
