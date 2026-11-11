@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Nel Marcos
+# Hola, soy Nel
 
 ### Sistemas, web e ideas que se convierten en proyectos.
 
