@@ -7,7 +7,7 @@
 Técnico de sistemas en **LIDER IT**, desde Asturias.  
 Trabajo con infraestructura, redes y soporte, y creo soluciones digitales por curiosidad y por utilidad.
 
-[Portfolio](https://nelmarcos.netlify.app) · [LinkedIn](https://www.linkedin.com/in/nelmarcos/) · [Contacto](mailto:nelmarcos@icloud.com)
+[Portfolio](https://nmclabs.dev) · [LinkedIn](https://www.linkedin.com/in/nelmarcos/) · [Contacto](mailto:nelmarcos@icloud.com)
 
 </div>
 
@@ -26,17 +26,17 @@ Mi recorrido empezó con ASIR y mis primeras páginas con HTML y CSS. Hoy combin
 
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
-| **Atlas** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas-nelmarcos.netlify.app/) |
-| **Portfolio** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nelmarcos.netlify.app) · [Código](https://github.com/nelmarcoss/portfolio.) |
-| **SkullScape.** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.netlify.app) · [Código](https://github.com/nelmarcoss/SkullScape.) |
-| **tinyspace.** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyyspace.netlify.app) |
-| **El Estanque Azul** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanqueazul.netlify.app) · [Código](https://github.com/nelmarcoss/El-Estanque-Azul) |
+| **Atlas** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
+| **Portfolio** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev) · [Código](https://github.com/nelmarcoss/portfolio.) |
+| **SkullScape.** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev) · [Código](https://github.com/nelmarcoss/SkullScape.) |
+| **tinyspace.** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
+| **El Estanque Azul** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev) · [Código](https://github.com/nelmarcoss/El-Estanque-Azul) |
 
 ## Un vistazo a mis proyectos
 
-[![Portfolio de Nel](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/portfolio.png)](https://nelmarcos.netlify.app/)
+[![Portfolio de Nel](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/portfolio.png)](https://nmclabs.dev/)
 
-[Ver todos los proyectos en mi portfolio →](https://nelmarcos.netlify.app/)
+[Ver todos los proyectos en mi portfolio →](https://nmclabs.dev/)
 
 ## Tecnologías y herramientas
 
