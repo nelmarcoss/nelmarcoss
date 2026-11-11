@@ -32,6 +32,12 @@ Mi recorrido empezó con ASIR y mis primeras páginas con HTML y CSS. Hoy combin
 | **tinyspace.** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyyspace.netlify.app) |
 | **El Estanque Azul** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanqueazul.netlify.app) · [Código](https://github.com/nelmarcoss/El-Estanque-Azul) |
 
+## Un vistazo a mis proyectos
+
+[![Portfolio de Nel](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/portfolio.png)](https://nelmarcos.netlify.app/)
+
+[Ver todos los proyectos en mi portfolio →](https://nelmarcos.netlify.app/)
+
 ## Tecnologías y herramientas
 
 **En sistemas:** Windows Server · Linux · VMware · Microsoft 365 · Veeam · Synology · UniFi · Sophos · Fortinet
