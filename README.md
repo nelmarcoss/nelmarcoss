@@ -26,6 +26,22 @@ Mi recorrido empezó con ASIR y mis primeras páginas con HTML y CSS. Hoy combin
 
 NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi evolución en desarrollo web. Los productos se presentan como proyectos de NMC Labs; detrás sigo estando yo, Nel.
 
+## Vista previa
+
+[![NMC Labs: sistemas y proyectos digitales](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/preview.png)](https://nmclabs.dev/)
+
+## Galería de proyectos
+
+| Platto | Tramo |
+| --- | --- |
+| [![Presentación de Platto](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-platto.png)](https://platto.nmclabs.dev/) | [![Presentación de Tramo](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-tramo.png)](https://tramo.nmclabs.dev/) |
+
+| Atlas | El Estanque Azul · NMC Labs |
+| --- | --- |
+| [![Presentación pública de Atlas](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-granja.png)](https://granja.nmclabs.dev/) |
+
+Las imágenes muestran las versiones mantenidas de los proyectos. Atlas y la nueva granja tienen código privado; sus imágenes enlazan a las webs públicas.
+
 ## Proyectos
 
 | Proyecto | Qué encontrarás | Enlaces |
