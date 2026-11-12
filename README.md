@@ -31,7 +31,7 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
 | **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/) · [Código](https://github.com/nelmarcoss/Platto) |
-| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: siete especies, experiencias y planificador de visitas de demostración. | [Nueva web](https://granja.nmclabs.dev/) · [Código](https://github.com/nelmarcoss/nmclabs-estanqueazul) · [Evolución](https://granja.nmclabs.dev/proyecto) |
+| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: siete especies, experiencias y planificador de visitas de demostración. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
 | **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev) · [Código](https://github.com/nelmarcoss/portfolio.) |
