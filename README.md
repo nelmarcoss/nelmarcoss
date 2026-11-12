@@ -7,7 +7,7 @@
 Técnico de sistemas en **LIDER IT**, desde Asturias.  
 Trabajo con infraestructura, redes y soporte, y creo soluciones digitales por curiosidad y por utilidad.
 
-[Portfolio](https://nmclabs.dev) · [LinkedIn](https://www.linkedin.com/in/nelmarcos/) · [Contacto](mailto:nelmarcos@icloud.com)
+[NMC Labs · Mis proyectos](https://nmclabs.dev) · [LinkedIn](https://www.linkedin.com/in/nelmarcos/) · [Contacto](mailto:nelmarcos@icloud.com)
 
 </div>
 
@@ -22,22 +22,24 @@ Trabajo con infraestructura, redes y soporte, y creo soluciones digitales por cu
 
 Mi recorrido empezó con ASIR y mis primeras páginas con HTML y CSS. Hoy combino el trabajo en sistemas con aplicaciones que nacen de necesidades reales.
 
+## NMC Labs
+
+NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi evolución en desarrollo web. Los productos se presentan como proyectos de NMC Labs; detrás sigo estando yo, Nel.
+
 ## Proyectos
 
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
-| **Tramo** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
-| **Atlas** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
-| **Portfolio** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev) · [Código](https://github.com/nelmarcoss/portfolio.) |
-| **SkullScape.** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev) · [Código](https://github.com/nelmarcoss/SkullScape.) |
-| **tinyspace.** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
-| **El Estanque Azul** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev) · [Código](https://github.com/nelmarcoss/El-Estanque-Azul) |
+| **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/) · [Código](https://github.com/nelmarcoss/Platto) |
+| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: siete especies, experiencias y planificador de visitas de demostración. | [Nueva web](https://granja.nmclabs.dev/) · [Código](https://github.com/nelmarcoss/nmclabs-estanqueazul) · [Evolución](https://granja.nmclabs.dev/proyecto) |
+| **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
+| **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
+| **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev) · [Código](https://github.com/nelmarcoss/portfolio.) |
+| **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev) · [Código](https://github.com/nelmarcoss/SkullScape.) |
+| **tinyspace. · 2022** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
+| **El Estanque Azul · Original · 2021** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev) · [Código](https://github.com/nelmarcoss/El-Estanque-Azul) |
 
-## Un vistazo a mis proyectos
-
-[![Portfolio de Nel](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/portfolio.png)](https://nmclabs.dev/)
-
-[Ver todos los proyectos en mi portfolio →](https://nmclabs.dev/)
+[Explorar todos los proyectos en NMC Labs →](https://nmclabs.dev/)
 
 ## Tecnologías y herramientas
 
