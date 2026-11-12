@@ -40,7 +40,11 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 | --- | --- |
 | [![Presentación pública de Atlas](https://nmclabs.dev/proyectos/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png)](https://granja.nmclabs.dev/) |
 
-Las imágenes muestran las versiones mantenidas de los proyectos. Atlas y la nueva granja tienen código privado; sus imágenes enlazan a las webs públicas.
+| Tinyspace · Rediseño 2026 | Tinyspace · Original 2022 |
+| --- | --- |
+| [![La nueva Tinyspace: tienda y planificador de habitaciones](https://nmclabs.dev/proyectos/showcase-tinyspace.png)](https://tiny.nmclabs.dev/) | [![La Tinyspace original de 2022](https://nmclabs.dev/proyectos/tinyspace-original.png)](https://tinyspace.nmclabs.dev/) |
+
+Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y la nueva Tinyspace tienen código privado; sus imágenes enlazan a las webs públicas.
 
 ## Proyectos
 
@@ -50,6 +54,7 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas y la nue
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: nueve especies, experiencias y planificador de visitas de demostración. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
+| **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
 | **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev)|
 | **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
 | **tinyspace. · 2022** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
