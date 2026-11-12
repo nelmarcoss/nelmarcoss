@@ -28,17 +28,17 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 ## Vista previa
 
-[![NMC Labs: sistemas y proyectos digitales](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/preview.png)](https://nmclabs.dev/)
+[![NMC Labs: sistemas y proyectos digitales](https://nmclabs.dev/social-preview.png)](https://nmclabs.dev/)
 
 ## Galería de proyectos
 
 | Platto | Tramo |
 | --- | --- |
-| [![Presentación de Platto](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-platto.png)](https://platto.nmclabs.dev/) | [![Presentación de Tramo](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-tramo.png)](https://tramo.nmclabs.dev/) |
+| [![Presentación de Platto](https://nmclabs.dev/proyectos/showcase-platto.png)](https://platto.nmclabs.dev/) | [![Presentación de Tramo](https://nmclabs.dev/proyectos/showcase-tramo.png)](https://tramo.nmclabs.dev/) |
 
 | Atlas | El Estanque Azul · NMC Labs |
 | --- | --- |
-| [![Presentación pública de Atlas](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://raw.githubusercontent.com/nelmarcoss/portfolio./main/docs/images/showcase-granja.png)](https://granja.nmclabs.dev/) |
+| [![Presentación pública de Atlas](https://nmclabs.dev/proyectos/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png)](https://granja.nmclabs.dev/) |
 
 Las imágenes muestran las versiones mantenidas de los proyectos. Atlas y la nueva granja tienen código privado; sus imágenes enlazan a las webs públicas.
 
@@ -46,14 +46,14 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas y la nue
 
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
-| **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/) · [Código](https://github.com/nelmarcoss/Platto) |
+| **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/)|
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: nueve especies, experiencias y planificador de visitas de demostración. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
-| **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev) · [Código](https://github.com/nelmarcoss/portfolio.) |
-| **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev) · [Código](https://github.com/nelmarcoss/SkullScape.) |
+| **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev)|
+| **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
 | **tinyspace. · 2022** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
-| **El Estanque Azul · Original · 2021** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev) · [Código](https://github.com/nelmarcoss/El-Estanque-Azul) |
+| **El Estanque Azul · Original · 2021** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev)|
 
 [Explorar todos los proyectos en NMC Labs →](https://nmclabs.dev/)
 
