@@ -44,7 +44,11 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 | --- | --- |
 | [![La nueva Tinyspace: tienda y planificador de habitaciones](https://nmclabs.dev/proyectos/showcase-tinyspace.png)](https://tiny.nmclabs.dev/) | [![La Tinyspace original de 2022](https://nmclabs.dev/proyectos/tinyspace-original.png)](https://tinyspace.nmclabs.dev/) |
 
-Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y la nueva Tinyspace tienen código privado; sus imágenes enlazan a las webs públicas.
+| Skullscape · Rediseño 2026 | Skullscape · Original 2023 |
+| --- | --- |
+| [![Skullscape: auriculares personalizables](https://nmclabs.dev/proyectos/showcase-skullscape.png)](https://audio.nmclabs.dev/) | [![Skullscape original](https://nmclabs.dev/proyectos/skullscape-original.png)](https://skullscape.nmclabs.dev/) |
+
+Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y las nuevas Tinyspace y Skullscape tienen código privado; sus imágenes enlazan a las webs públicas.
 
 ## Proyectos
 
@@ -56,6 +60,7 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nuev
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
 | **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables y muebles reconocibles, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
 | **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev)|
+| **Skullscape · NMC Labs · 2026** | Tienda demo de auriculares: tres modelos, comparación, personalización visual y compra simulada. Código privado. | [Nueva web](https://audio.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/skullscape) |
 | **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
 | **tinyspace. · 2022** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
 | **El Estanque Azul · Original · 2021** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev)|
