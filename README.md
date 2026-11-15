@@ -7,7 +7,7 @@
 Técnico de sistemas en **LIDER IT**, desde Asturias.  
 Trabajo con infraestructura, redes y soporte, y creo soluciones digitales por curiosidad y por utilidad.
 
-[NMC Labs · Mis proyectos](https://nmclabs.dev) · [LinkedIn](https://www.linkedin.com/in/nelmarcos/) · [Contacto](mailto:nelmarcos@icloud.com)
+[NMC Labs · Mis proyectos](https://nmclabs.dev) · [LinkedIn](https://www.linkedin.com/in/nelmarcos/) · [Contacto](mailto:info@nmclabs.dev)
 
 </div>
 
@@ -81,6 +81,6 @@ Cada repositorio cuenta su propio alcance: desde ejercicios de aprendizaje hasta
 
 **Me gusta entender cómo funcionan las cosas y construir algo útil con lo aprendido.**
 
-[Hablemos →](mailto:nelmarcos@icloud.com)
+[Hablemos →](mailto:info@nmclabs.dev)
 
 </div>
