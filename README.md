@@ -38,7 +38,7 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 | Atlas | El Estanque Azul · NMC Labs |
 | --- | --- |
-| [![Presentación pública de Atlas](https://nmclabs.dev/proyectos/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png)](https://granja.nmclabs.dev/) |
+| [![Presentación pública de Atlas](https://nmclabs.dev/proyectos/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png?v=editorial-2026)](https://granja.nmclabs.dev/) |
 
 | Tinyspace · Rediseño 2026 | Tinyspace · Original 2022 |
 | --- | --- |
@@ -51,7 +51,7 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nuev
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
 | **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/)|
-| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, comida compartida, galería y plano interactivo con actividades, mesas y presupuesto demo. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
+| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, picnic o comida en mesa, fotos y plano de la misma granja, con duración y presupuesto calculados. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
 | **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables y muebles reconocibles, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
