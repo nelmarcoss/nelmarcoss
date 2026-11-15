@@ -63,8 +63,8 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nuev
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
 | **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables y muebles reconocibles, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
-| **GTA Countdown · 2026** | Cuenta atrás para la fecha anunciada de GTA VI, calendario y novedades oficiales. Proyecto independiente, código privado. | [Cuenta atrás](https://gtacountdown.nmclabs.dev/) |
-| **29N · 2026** | Calendario electoral y pactómetro manual de 350 escaños. Las simulaciones no son resultados ni predicciones. Código privado. | [Explorar 29N](https://29n.nmclabs.dev/) |
+| **GTA Countdown · 2026** | Explorador de Leonida, personajes, galería, vídeos oficiales y cuenta atrás de GTA VI. Proyecto independiente, código privado. | [Cuenta atrás](https://gtacountdown.nmclabs.dev/) |
+| **29N · 2026** | Pactómetro de 350 escaños, referencia del 23J y laboratorio D’Hondt paso a paso. Las simulaciones no son resultados ni predicciones. Código privado. | [Explorar 29N](https://29n.nmclabs.dev/) |
 | **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev)|
 | **Skullscape · NMC Labs · 2026** | Tienda demo de auriculares: tres modelos, comparación, personalización visual y compra simulada. Código privado. | [Nueva web](https://audio.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/skullscape) |
 | **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
