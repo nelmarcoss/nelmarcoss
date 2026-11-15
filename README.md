@@ -51,7 +51,7 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nuev
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
 | **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/)|
-| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, seis experiencias, nueve especies y configurador con programa y presupuesto demo. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
+| **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, comida compartida, galería de la granja y configurador con programa y presupuesto demo. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
 | **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables y muebles reconocibles, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
