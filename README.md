@@ -50,7 +50,7 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 | GTA VI · Cuenta atrás · 2026 | 29N · 2026 |
 | --- | --- |
-| [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png)](https://gtacountdown.nmclabs.dev/) | [![Calendario electoral y pactómetro de simulación 29N](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
+| [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png)](https://gtacountdown.nmclabs.dev/) | [![29N: sondeos con fuentes, candidaturas, provincias e histórico electoral](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
 
 Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y las nuevas Tinyspace y Skullscape tienen código privado; sus imágenes enlazan a las webs públicas.
 
@@ -64,7 +64,7 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nuev
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
 | **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables y muebles reconocibles, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
 | **GTA VI · Cuenta atrás · 2026** | Cuenta atrás de GTA VI con idioma automático, 50 escenas, tarjetas con enlaces compartibles y fondos de pantalla editables, explorador de Leonida y vídeos oficiales. Proyecto independiente, código privado. | [Cuenta atrás](https://gtacountdown.nmclabs.dev/) |
-| **29N · 2026** | Pactómetro de 350 escaños, referencia del 23J y laboratorio D’Hondt paso a paso. Las simulaciones no son resultados ni predicciones. Código privado. | [Explorar 29N](https://29n.nmclabs.dev/) |
+| **29N · 2026** | Especial electoral con sondeos, candidaturas, 52 circunscripciones e histórico 2016–2023. Comparador de propuestas, pactómetro y D’Hondt. Fuentes y simulaciones diferenciadas. Código privado. | [Explorar 29N](https://29n.nmclabs.dev/) |
 | **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev)|
 | **Skullscape · NMC Labs · 2026** | Tienda demo de auriculares: tres modelos, comparación, personalización visual y compra simulada. Código privado. | [Nueva web](https://audio.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/skullscape) |
 | **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
