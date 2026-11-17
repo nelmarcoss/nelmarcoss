@@ -52,6 +52,8 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 | --- | --- |
 | [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png)](https://gtacountdown.nmclabs.dev/) | [![29N: pactómetro con la referencia histórica oficial de 2023](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
 
+[![Puntual: reservas y agenda para barberías y peluquerías](https://nmclabs.dev/proyectos/showcase-puntual.png)](https://puntual.nmclabs.dev/)
+
 Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y las nuevas Tinyspace y Skullscape tienen código privado; sus imágenes enlazan a las webs públicas.
 
 ## Proyectos
@@ -59,6 +61,7 @@ Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nuev
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
 | **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/)|
+| **Puntual · 2026** | Reservas y agenda para barberías y peluquerías. Demo conectada: servicio, profesional, hora, cambios y cancelaciones. Código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, picnic o comida en mesa, fotos y plano de la misma granja, con duración y presupuesto calculados. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
 | **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
