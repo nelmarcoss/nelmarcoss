@@ -52,7 +52,7 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 | --- | --- |
 | [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png)](https://gtacountdown.nmclabs.dev/) | [![29N: pactómetro con la referencia histórica oficial de 2023](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
 
-[![Puntual: reservas y agenda para barberías y peluquerías](https://nmclabs.dev/proyectos/showcase-puntual.png)](https://puntual.nmclabs.dev/)
+[![Puntual: reservas y agenda para barberías y peluquerías](https://nmclabs.dev/proyectos/showcase-puntual.png?v=2)](https://puntual.nmclabs.dev/)
 
 Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y las nuevas Tinyspace y Skullscape tienen código privado; sus imágenes enlazan a las webs públicas.
 
