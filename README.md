@@ -32,46 +32,46 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 ## Galería de proyectos
 
-| Platto | Tramo |
+| platto | tramo |
 | --- | --- |
-| [![Presentación de Platto](https://nmclabs.dev/proyectos/showcase-platto.png)](https://platto.nmclabs.dev/) | [![Presentación de Tramo](https://nmclabs.dev/proyectos/showcase-tramo.png)](https://tramo.nmclabs.dev/) |
+| [![Identidad de platto y carta de ejemplo](https://nmclabs.dev/proyectos/showcase-platto.png?v=3)](https://platto.nmclabs.dev/) | [![Identidad de tramo y una ruta de envío](https://nmclabs.dev/proyectos/showcase-tramo.png?v=3)](https://tramo.nmclabs.dev/) |
 
-| Atlas | El Estanque Azul · NMC Labs |
+| atlas | El Estanque Azul · NMC Labs |
 | --- | --- |
-| [![Presentación pública de Atlas](https://nmclabs.dev/proyectos/showcase-atlas.png)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png?v=editorial-2026)](https://granja.nmclabs.dev/) |
+| [![Identidad de atlas con evolución patrimonial](https://nmclabs.dev/proyectos/showcase-atlas.png?v=3)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png?v=3)](https://granja.nmclabs.dev/) |
 
 | Tinyspace · Rediseño 2026 | Tinyspace · Original 2022 |
 | --- | --- |
-| [![La nueva Tinyspace: tienda y planificador de habitaciones](https://nmclabs.dev/proyectos/showcase-tinyspace.png)](https://tiny.nmclabs.dev/) | [![La Tinyspace original de 2022](https://nmclabs.dev/proyectos/tinyspace-original.png)](https://tinyspace.nmclabs.dev/) |
+| [![La nueva Tinyspace: tienda y planificador de habitaciones](https://nmclabs.dev/proyectos/showcase-tinyspace.png?v=3)](https://tiny.nmclabs.dev/) | [![La Tinyspace original de 2022](https://nmclabs.dev/proyectos/tinyspace-original.png)](https://tinyspace.nmclabs.dev/) |
 
 | Skullscape · Rediseño 2026 | Skullscape · Original 2023 |
 | --- | --- |
-| [![Skullscape: auriculares personalizables](https://nmclabs.dev/proyectos/showcase-skullscape.png)](https://audio.nmclabs.dev/) | [![Skullscape original](https://nmclabs.dev/proyectos/skullscape-original.png)](https://skullscape.nmclabs.dev/) |
+| [![Skullscape: auriculares personalizables](https://nmclabs.dev/proyectos/showcase-skullscape.png?v=3)](https://audio.nmclabs.dev/) | [![Skullscape original](https://nmclabs.dev/proyectos/skullscape-original.png)](https://skullscape.nmclabs.dev/) |
 
 | GTA VI · Cuenta atrás · 2026 | 29N · 2026 |
 | --- | --- |
-| [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png)](https://gtacountdown.nmclabs.dev/) | [![29N: pactómetro con la referencia histórica oficial de 2023](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
+| [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png?v=3)](https://gtacountdown.nmclabs.dev/) | [![29N: marca y hemiciclo ilustrativo](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
 
-[![Puntual: reservas y agenda para barberías y peluquerías](https://nmclabs.dev/proyectos/showcase-puntual.png?v=2)](https://puntual.nmclabs.dev/)
+[![Puntual: reservas y agenda para barberías y peluquerías](https://nmclabs.dev/proyectos/showcase-puntual.png?v=3)](https://puntual.nmclabs.dev/)
 
-Las imágenes muestran las versiones mantenidas de los proyectos. Atlas, la nueva granja y las nuevas Tinyspace y Skullscape tienen código privado; sus imágenes enlazan a las webs públicas.
+Las portadas de los proyectos nuevos son composiciones de marca y producto, sin puntos decorativos. Las capturas de los originales documentan su evolución. Los proyectos nuevos tienen código privado; sus portadas enlazan a las webs públicas.
 
 ## Proyectos
 
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
-| **Platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir Platto](https://platto.nmclabs.dev/)|
-| **Puntual · 2026** | Reservas y agenda para barberías y peluquerías. Demo conectada: servicio, profesional, hora, cambios y cancelaciones. Código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
+| **platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir platto](https://platto.nmclabs.dev/)|
+| **Puntual · 2026** | Reservas y agenda visual para barberías y peluquerías: turnos, vacaciones, clientes, lista de espera, resumen semanal y página de estudio personalizable. Demo local y código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, picnic o comida en mesa, fotos y plano de la misma granja, con duración y presupuesto calculados. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
-| **Tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir Tramo](https://tramo.nmclabs.dev/) |
-| **Atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir Atlas](https://atlas.nmclabs.dev/) |
+| **tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir tramo](https://tramo.nmclabs.dev/) |
+| **atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir atlas](https://atlas.nmclabs.dev/) |
 | **Tinyspace · NMC Labs · 2026** | Tienda demo de 30 productos, plano 2D con paredes editables y muebles reconocibles, carrito simulado y proyectos para empresas. Código privado. | [Nueva web](https://tiny.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/tinyspace) |
 | **GTA VI · Cuenta atrás · 2026** | Cuenta atrás de GTA VI con idioma automático, 50 escenas, tarjetas con enlaces compartibles y fondos de pantalla editables, explorador de Leonida y vídeos oficiales. Proyecto independiente, código privado. | [Cuenta atrás](https://gtacountdown.nmclabs.dev/) |
 | **29N · 2026** | Observatorio electoral: compara sondeos, elige partidos en las gráficas y explora el hemiciclo de sus estimaciones. Con histórico, provincias, pactómetro y fuentes. Código privado. | [Explorar 29N](https://29n.nmclabs.dev/) |
 | **NMC Labs** | Mi espacio de sistemas, desarrollo web y proyectos digitales. | [Web](https://nmclabs.dev)|
 | **Skullscape · NMC Labs · 2026** | Tienda demo de auriculares: tres modelos, comparación, personalización visual y compra simulada. Código privado. | [Nueva web](https://audio.nmclabs.dev/) · [Evolución](https://nmclabs.dev/proyectos/skullscape) |
-| **SkullScape. · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
-| **tinyspace. · 2022** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
+| **SkullScape · 2023** | Landing de auriculares: un ejercicio de diseño y maquetación con HTML y CSS. | [Demo](https://skullscape.nmclabs.dev)|
+| **tinyspace · 2022** | Concepto de web de mobiliario con catálogo, blog y galería. | [Demo](https://tinyspace.nmclabs.dev) |
 | **El Estanque Azul · Original · 2021** | Mi primer proyecto web: una granja como punto de partida para aprender diseño adaptable. | [Demo](https://estanque.nmclabs.dev)|
 
 [Explorar todos los proyectos en NMC Labs →](https://nmclabs.dev/)
