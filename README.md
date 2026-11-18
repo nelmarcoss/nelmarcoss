@@ -34,27 +34,27 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 | platto | tramo |
 | --- | --- |
-| [![Identidad de platto y carta de ejemplo](https://nmclabs.dev/proyectos/showcase-platto.png?v=brand-a96f293)](https://platto.nmclabs.dev/) | [![Identidad de tramo y una ruta de envío](https://nmclabs.dev/proyectos/showcase-tramo.png?v=brand-a96f293)](https://tramo.nmclabs.dev/) |
+| <a href="https://platto.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/platto-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/platto-brand-light.webp" alt="Identidad de platto y carta de ejemplo"></picture></a> | <a href="https://tramo.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/tramo-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/tramo-brand-light.webp" alt="Identidad de tramo y una ruta de envío"></picture></a> |
 
 | atlas | El Estanque Azul · NMC Labs |
 | --- | --- |
-| [![Identidad de atlas con evolución patrimonial](https://nmclabs.dev/proyectos/showcase-atlas.png?v=brand-a96f293)](https://atlas.nmclabs.dev/) | [![La nueva granja de NMC Labs](https://nmclabs.dev/proyectos/showcase-granja.png?v=brand-a96f293)](https://granja.nmclabs.dev/) |
+| <a href="https://atlas.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/atlas-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/atlas-brand-light.webp" alt="Identidad de atlas con evolución patrimonial"></picture></a> | <a href="https://granja.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/granja-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/granja-brand-light.webp" alt="La nueva granja de NMC Labs"></picture></a> |
 
 | Tinyspace · Rediseño 2026 | Tinyspace · Original 2022 |
 | --- | --- |
-| [![La nueva Tinyspace: tienda y planificador de habitaciones](https://nmclabs.dev/proyectos/showcase-tinyspace.png?v=brand-a96f293)](https://tiny.nmclabs.dev/) | [![La Tinyspace original de 2022](https://nmclabs.dev/proyectos/tinyspace-original.png)](https://tinyspace.nmclabs.dev/) |
+| <a href="https://tiny.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/tinyspace-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/tinyspace-brand-light.webp" alt="La nueva Tinyspace: tienda y planificador de habitaciones"></picture></a> | <a href="https://tinyspace.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/tinyspace-original-card-dark.webp"><img src="https://nmclabs.dev/proyectos/tinyspace-original-card-light.webp" alt="La Tinyspace original de 2022"></picture></a> |
 
 | Skullscape · Rediseño 2026 | Skullscape · Original 2023 |
 | --- | --- |
-| [![Skullscape: auriculares personalizables](https://nmclabs.dev/proyectos/showcase-skullscape.png?v=brand-a96f293)](https://audio.nmclabs.dev/) | [![Skullscape original](https://nmclabs.dev/proyectos/skullscape-original.png)](https://skullscape.nmclabs.dev/) |
+| <a href="https://audio.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/skullscape-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/skullscape-brand-light.webp" alt="Skullscape: auriculares personalizables"></picture></a> | <a href="https://skullscape.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/skullscape-original-card-dark.webp"><img src="https://nmclabs.dev/proyectos/skullscape-original-card-light.webp" alt="Skullscape original"></picture></a> |
 
 | GTA VI · Cuenta atrás · 2026 | 29N · 2026 |
 | --- | --- |
-| [![Cuenta atrás GTA VI con calendario y fuentes oficiales](https://nmclabs.dev/proyectos/showcase-gtacountdown.png?v=brand-a96f293)](https://gtacountdown.nmclabs.dev/) | [![29N: marca y hemiciclo ilustrativo](https://nmclabs.dev/proyectos/showcase-29n.png)](https://29n.nmclabs.dev/) |
+| <a href="https://gtacountdown.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/gtavi-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/gtavi-brand-light.webp" alt="Cuenta atrás GTA VI con calendario y fuentes oficiales"></picture></a> | <a href="https://29n.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/29n-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/29n-brand-light.webp" alt="29N: marca y hemiciclo ilustrativo"></picture></a> |
 
-[![Puntual: reservas y agenda para barberías y peluquerías](https://nmclabs.dev/proyectos/showcase-puntual.png?v=brand-a96f293)](https://puntual.nmclabs.dev/)
+<a href="https://puntual.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/puntual-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/puntual-brand-light.webp" alt="Puntual: reservas y agenda para barberías y peluquerías"></picture></a>
 
-[![amano: inventario, equipos y responsables](https://nmclabs.dev/proyectos/showcase-amano.png)](https://amano.nmclabs.dev/)
+<a href="https://amano.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/amano-brand-dark.webp"><img src="https://nmclabs.dev/proyectos/amano-brand-light.webp" alt="amano: inventario, equipos y responsables"></picture></a>
 
 Las portadas de los proyectos nuevos son composiciones de marca y producto, sin puntos decorativos. Las capturas de los originales documentan su evolución. Los proyectos nuevos tienen código privado; sus portadas enlazan a las webs públicas.
 
@@ -64,7 +64,7 @@ Las portadas de los proyectos nuevos son composiciones de marca y producto, sin 
 | --- | --- | --- |
 | **platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir platto](https://platto.nmclabs.dev/)|
 | **Puntual · 2026** | Reservas y agenda visual para barberías y peluquerías: reserva rápida, equipo con fotos, clientes, lista de espera, caja demo, recordatorios y página de barbería con fotos propias del local. Demo local y código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
-| **amano · 2026** | Inventario de equipos de empresa: fotos, personas, ubicaciones, asignaciones, préstamos, mantenimiento y etiquetas QR. Demo local y código privado. | [Descubrir amano](https://amano.nmclabs.dev/) |
+| **amano · 2026** | Inventario de equipos de empresa: fotos, personas, ubicaciones, asignaciones, préstamos, mantenimiento, identidad de empresa y etiquetas QR. Demo local y código privado. | [Descubrir amano](https://amano.nmclabs.dev/) |
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, picnic o comida en mesa, fotos y plano de la misma granja, con duración y presupuesto calculados. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir tramo](https://tramo.nmclabs.dev/) |
 | **atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir atlas](https://atlas.nmclabs.dev/) |
