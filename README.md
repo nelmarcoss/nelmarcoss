@@ -61,7 +61,7 @@ Las portadas de los proyectos nuevos son composiciones de marca y producto, sin 
 | Proyecto | Qué encontrarás | Enlaces |
 | --- | --- | --- |
 | **platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir platto](https://platto.nmclabs.dev/)|
-| **Puntual · 2026** | Reservas y agenda visual para barberías y peluquerías: reserva rápida, equipo con fotos, clientes, lista de espera, caja demo, recordatorios y página de barbería. Demo local y código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
+| **Puntual · 2026** | Reservas y agenda visual para barberías y peluquerías: reserva rápida, equipo con fotos, clientes, lista de espera, caja demo, recordatorios y página de barbería con fotos propias del local. Demo local y código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, picnic o comida en mesa, fotos y plano de la misma granja, con duración y presupuesto calculados. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir tramo](https://tramo.nmclabs.dev/) |
 | **atlas · 2026** | Aplicación de seguimiento del patrimonio y su evolución mensual. Código privado; presentación pública. | [Descubrir atlas](https://atlas.nmclabs.dev/) |
