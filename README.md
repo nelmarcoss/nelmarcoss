@@ -104,3 +104,7 @@ Cada repositorio cuenta su propio alcance: desde ejercicios de aprendizaje hasta
 [Hablemos →](mailto:info@nmclabs.dev)
 
 </div>
+
+## Mantenimiento
+
+Revisado el 19 de noviembre de 2026. Este repositorio no necesita Node ni paquetes npm; se conserva su contenido y su estructura. Las herramientas de los proyectos actuales se documentan en sus respectivos repositorios.
