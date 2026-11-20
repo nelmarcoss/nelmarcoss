@@ -34,6 +34,10 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 ### Productos y herramientas · 2026
 
+| estancia · Hoteles y alojamientos |
+| --- |
+| <a href="https://estancia.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/estancia-brand-dark.webp?v=20261120"><img width="400" src="https://nmclabs.dev/proyectos/estancia-brand-light.webp?v=20261120" alt="estancia: alojamiento y calendario de reservas"></picture></a> |
+
 | platto · Carta digital | puntual · Reservas y agenda |
 | --- | --- |
 | <a href="https://platto.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/platto-brand-dark.webp?v=20261118"><img width="400" src="https://nmclabs.dev/proyectos/platto-brand-light.webp?v=20261118" alt="Carta digital y presentación de un plato"></picture></a> | <a href="https://puntual.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/puntual-brand-dark.webp?v=20261118"><img width="400" src="https://nmclabs.dev/proyectos/puntual-brand-light.webp?v=20261118" alt="Agenda para barberías y peluquerías"></picture></a> |
@@ -72,6 +76,7 @@ Las portadas cambian con el modo claro u oscuro. Cada imagen abre la web del pro
 | --- | --- | --- |
 | **platto · 2026** | Presentación comercial y demo editable de cartas digitales para restaurantes. | [Descubrir platto](https://platto.nmclabs.dev/)|
 | **Puntual · 2026** | Reservas y agenda visual para barberías y peluquerías: reserva rápida, equipo con fotos, clientes, lista de espera, caja demo, recordatorios y página de barbería con fotos propias del local. Demo local y código privado. | [Descubrir Puntual](https://puntual.nmclabs.dev/) |
+| **estancia · 2026** | Reservas, disponibilidad, limpieza y huéspedes para hoteles, apartamentos y casas rurales. Web del alojamiento, identidad propia y opciones de conexión con canales. Demo local y código privado. | [Descubrir estancia](https://estancia.nmclabs.dev/) |
 | **amano · 2026** | Inventario de empresa con perfil y logotipo propios, equipos con foto, personas, ubicaciones, entregas, préstamos, mantenimiento y etiquetas QR con identidad de la empresa. Demo local y código privado. | [Descubrir amano](https://amano.nmclabs.dev/) |
 | **El Estanque Azul · NMC Labs · 2026** | Mi primera web reimaginada: jornadas de empresa, experiencias, picnic o comida en mesa, fotos y plano de la misma granja, con duración y presupuesto calculados. Código privado. | [Nueva web](https://granja.nmclabs.dev/) · [Evolución](https://granja.nmclabs.dev/proyecto) |
 | **tramo · 2026** | Seguimiento de paquetes, consulta rápida y demo interactiva. | [Descubrir tramo](https://tramo.nmclabs.dev/) |
