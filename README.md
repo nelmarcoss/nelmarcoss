@@ -34,6 +34,10 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 ### Productos y herramientas · 2026
 
+| nodo · Herramientas de sistemas |
+| --- |
+| <a href="https://nodo.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/nodo-brand-dark.webp?v=20261122"><img width="800" src="https://nmclabs.dev/proyectos/nodo-brand-light.webp?v=20261122" alt="nodo: claves, QR Wi-Fi y verificación local de archivos"></picture></a> |
+
 | apunto · Gestión de talleres | estancia · Hoteles y alojamientos |
 | --- | --- |
 | <a href="https://apunto.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/apunto-brand-dark.webp?v=20261121"><img width="400" src="https://nmclabs.dev/proyectos/apunto-brand-light.webp?v=20261121" alt="apunto: vehículo y orden de reparación"></picture></a> | <a href="https://estancia.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/estancia-brand-dark.webp?v=20261120"><img width="400" src="https://nmclabs.dev/proyectos/estancia-brand-light.webp?v=20261120" alt="estancia: alojamiento y calendario de reservas"></picture></a> |
