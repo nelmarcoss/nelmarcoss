@@ -36,7 +36,7 @@ NMC Labs es mi espacio para crear aplicaciones, explorar ideas y compartir mi ev
 
 | nodo · Herramientas de sistemas |
 | --- |
-| <a href="https://nodo.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/nodo-brand-dark.webp?v=20261122-v5"><img width="800" src="https://nmclabs.dev/proyectos/nodo-brand-light.webp?v=20261122-v5" alt="nodo: 72 herramientas de sistemas, DNS, correo y archivos"></picture></a> |
+| <a href="https://nodo.nmclabs.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://nmclabs.dev/proyectos/nodo-brand-dark.webp?v=20261122-v6"><img width="800" src="https://nmclabs.dev/proyectos/nodo-brand-light.webp?v=20261122-v6" alt="nodo: 100 herramientas de sistemas, DNS, correo y archivos"></picture></a> |
 
 | apunto · Gestión de talleres | estancia · Hoteles y alojamientos |
 | --- | --- |
